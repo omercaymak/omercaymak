@@ -1,5 +1,5 @@
-# Merhaba ismim Ömer ! 
+## Merhaba ismim Ömer ! 
 Yazılıma sıfırdan başlıyorum.
 
-## LinkedIn hesabım :
+### LinkedIn hesabım :
 www.linkedin.com/in/omerfarukcaymak
